@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/anova.png</file>
+        <file>images/books.png</file>
+        <file>images/correlation.png</file>
+        <file>images/gear.png</file>
+        <file>images/group.png</file>
+        <file>images/teacher.png</file>
+        <file>ChartWindow.qml</file>
+        <file>images/chart.png</file>
+        <file>tools.js</file>
+        <file>views/ItemList.qml</file>
+        <file>SelectPanel.qml</file>
+        <file>ResultConsole.qml</file>
+        <file>images/clean.png</file>
+        <file>images/save.png</file>
+        <file>images/filter.png</file>
+        <file>ItemPanel.qml</file>
+        <file>images/filled-filter.png</file>
+        <file>appicon.png</file>
+        <file>config.ini</file>
+        <file>models/Category.qml</file>
+        <file>SelectPanelModel.qml</file>
+        <file>AboutWindow.qml</file>
+        <file>MainChartView.qml</file>
+        <file>MainLineChart.qml</file>
+        <file>MathParamsTable.qml</file>
+        <file>images/go-arrow.png</file>
+        <file>MathSign.qml</file>
+        <file>MathValue.qml</file>
+        <file>PressButton.qml</file>
+        <file>MultiLineChartWindow.qml</file>
+        <file>models/CategoryComboBox.qml</file>
+        <file>ToolTip.qml</file>
+        <file>TooltipArea.qml</file>
+        <file>SimpleItemPanel.qml</file>
+        <file>CorrelationWindow.qml</file>
+        <file>TrendWindow.qml</file>
+        <file>images/trend.png</file>
+    </qresource>
+</RCC>
